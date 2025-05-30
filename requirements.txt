@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+python-dotenv
+langchain
+openai
+pyperclip
